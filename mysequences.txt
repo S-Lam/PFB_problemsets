@@ -1,0 +1,2 @@
+>seqName description
+ATGGCGTCTTGGCCTTAAAAGCTC
